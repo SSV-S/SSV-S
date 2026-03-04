@@ -2,14 +2,14 @@
 
 #  I'm Sathyavrath Karrela
 
-💻 Cybersecurity & Network Security Professional with expertise in Security operations, threat detection,incident response and secure infrastructure design.  
+💻 Cybersecurity & Splunk Professional with expertise in Security operations, threat detection,incident response and secure infrastructure design.  
 🔍 Skilled in Security Analysis, Network Security, Splunk, Penetration testing, DevSecOps practices, vulnerability management. 
 ☁️ Experienced in cloud security (AWS), network configurations (Cisco), and automation using Python, Bash, and PowerShell.  
 🚀 Passionate about building secure systems and  strengthen organizational defenses.  
 
 
 ## 🎯 Objective
- Seeking roles as a  Security Engineer, Security Analyst,Splunk Engineer, or SIEM Engineer. I bring expertise in Security operations, SIEM tuning (Splunk/ES), penetration testing, and DevSecOps to strengthen threat detection, incident response, and cloud/network security.
+ As a  Security Engineer, Security Analyst,Splunk Engineer, or SIEM Engineer. I bring expertise in Security operations, SIEM tuning (Splunk/ES), penetration testing, and DevSecOps to strengthen threat detection, incident response, and cloud/network security.
 
 
 

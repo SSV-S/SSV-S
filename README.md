@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#  I'm Sathyavrath Karrela
+#  I'm Sathyavrath 
 
 💻 Cybersecurity & Splunk Professional with expertise in Security operations, threat detection,incident response and secure infrastructure design.  
 🔍 Skilled in Security Analysis, Network Security, Splunk, Penetration testing, DevSecOps practices, vulnerability management. 
